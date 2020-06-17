@@ -1,9 +1,9 @@
 # Express API template
-[![Build Status](https://travis-ci.com/Justin-Mitchell/express-api-template.svg?xtoken=ycsC4nJsx3mRkpCkjceX&branch=development)](https://travis-ci.com/Justin-Mitchell/express-api-template)
+[![Build Status](https://travis-ci.com/Justin-Mitchell/express-api-template.svg?xtoken=ycsC4nJsx3mRkpCkjceX&branch=development)](https://travis-ci.com/Justin-Mitchell/express-api-template?branch=development)
 [![Coverage Status](https://coveralls.io/repos/github/Justin-Mitchell/express-api-template/badge.svg?branch=development&t=89ECjd)](https://coveralls.io/github/Justin-Mitchell/express-api-template?branch=development)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1b6759ab22cdafc43f37/maintainability)](https://codeclimate.com/github/Justin-Mitchell/express-api-template/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/1b6759ab22cdafc43f37/test_coverage)](https://codeclimate.com/github/Justin-Mitchell/express-api-template/test_coverage)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/18n1nj1n219i293l/branch/development?svg=true)](https://ci.appveyor.com/project/Justin-Mitchell/express-api-template/branch/development)
 # initialize the project folder as a git repository
 git init
 
