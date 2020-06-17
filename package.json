@@ -1,0 +1,11 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "description": "https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goHUNT <tech@gohunt.com> (gohunt.com)",
+  "license": "ISC"
+}
