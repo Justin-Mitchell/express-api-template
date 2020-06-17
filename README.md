@@ -20,3 +20,9 @@ yarn add nodemon --dev
 
 # install elsint and prettier
 yarn add eslint eslint-config-airbnb-base eslint-plugin-import prettier --dev
+
+# install dotenv
+yarn add dotenv
+
+# install dependencies
+yarn add mocha chai nyc sinon-chai supertest coveralls --dev
